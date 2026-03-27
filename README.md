@@ -27,16 +27,6 @@ Aplicación web desarrollada en Laravel para la gestión de ventas, productos y 
 
 ---
 
-## 📸 Vista del sistema
-
-### Dashboard
-![Dashboard](images/dashboard.png)
-
-### Ventas
-![Ventas](images/ventas.png)
-
----
-
 ## ⚙️ Instalación
 
 ```bash
